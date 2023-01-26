@@ -1,5 +1,5 @@
 <template>
-    <div class="text-red-500">
-        Coucou
+    <div class="text-teal-400">
+        Coucou Nuxt
     </div>
 </template>
