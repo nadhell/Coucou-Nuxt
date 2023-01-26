@@ -1,5 +1,6 @@
 <template>
-    <div class="text-teal-400">
-        Coucou Nuxt
+    <div>
+        <HomeHero />
+        <HomeImages />
     </div>
 </template>
