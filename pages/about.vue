@@ -15,7 +15,7 @@
             <div class="space-y-7 text-zinc-400 mt-6">
                 <p>
                     I am a software developer learning how to create funky websites. This template was elaborated thanks to Thomas Sanlis,
-                    teacher at ADA Tech School.
+                    one of our teacher at ADA Tech School.
                 </p>
                 
             </div>

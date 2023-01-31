@@ -9,12 +9,12 @@
           </div>
   
           <h1 class="text-4xl font-bold tracking-tight text-zinc-100 sm:text-5xl">
-            I'm Nadège, freelance developer and designer
+            HI! I'm Nadège, software developer in the making
           </h1>
           <p class="mt-6 text-base text-zinc-400">
-            My name is Nadège, and I'm a freelance developer and designer from France, but also an Indie maker!
-            I'm trying to organize a portfolio workshop at Ada Tech School.
-            Sometimes I tell funny jokes.
+            My name is Nadège, and I'm a software developer from France,learning awesome skills @ADA Tech School!
+            This project is not (yet?) my actual portfolio, and is meant to experiment with VueJs, Nuxt and Tailwind CSS.
+            <br />The original project was made by Thomas Sanlis, teacher @ADA Tech School and indie maker (among other things).
           </p>
           <div class="flex gap-6 mt-6">
             <a class="p-1 -m-1 group" aria-label="Follow on Twitter" href="https://twitter.com/t_zahil">
