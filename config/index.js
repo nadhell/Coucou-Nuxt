@@ -4,4 +4,6 @@ export const menu = [
     { name: 'Projects', path: '/projects' },
     { name: 'Resume', path: '/resume' },
   ]
-  
+
+  export const projects = [
+  ]
