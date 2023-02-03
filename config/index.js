@@ -73,18 +73,3 @@ export const experiences = [
     url: 'https://thomas-sanlis.com'
   }
 ]
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-atelier-portfolio-dorothy-nantes/index.js at main · adatechschool/atelier-portfolio-dorothy-nantes
