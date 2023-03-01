@@ -10,19 +10,19 @@
           <div class="lg:order-first lg:row-span-2">
             <h1 class="text-zinc-100 text-4xl sm:text-5xl font-bold">
                 Hi I'm Nadège Hellemans,
-                and I'm learning Vue !
+                and I'm making websites !
             </h1>
             <div class="space-y-7 text-zinc-400 mt-6">
                 <p>
                     I am a software developer learning how to create funky websites. This template was elaborated thanks to Thomas Sanlis,
-                    one of our teacher at ADA Tech School.
+                    one of our teachers at <a href="https://adatechschool.fr/">ADA Tech School</a>.
                 </p>
                 
             </div>
           </div>
           <div class="lg:pl-20">
             <ul role="list">
-              <li class="flex">
+              <!-- <li class="flex">
                 <a class="flex text-sm font-medium transition group text-zinc-800 hover:text-primary-500 dark:text-zinc-200 dark:hover:text-primary-500"
                   href="https://twitter.com/t_zahil">
                   <svg viewBox="0 0 24 24" aria-hidden="true"
@@ -48,7 +48,7 @@
                   </svg>
                   <span class="ml-4">Follow on Instagram</span>
                 </a>
-              </li>
+              </li> -->
               <li class="flex mt-4">
                 <a class="flex text-sm font-medium transition group text-zinc-800 hover:text-primary-500 dark:text-zinc-200 dark:hover:text-primary-500"
                   href="/about#">

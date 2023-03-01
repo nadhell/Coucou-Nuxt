@@ -7,10 +7,10 @@ import { experiences } from '~/config'
     <div class="max-w-2xl mx-auto lg:max-w-5xl">
       <header class="max-w-2xl">
         <h1 class="text-4xl font-bold tracking-tight text-zinc-100 sm:text-5xl">
-          I had A LOT of experiences. I've made many different things I'm proud of.
+          I've done many different things, and I'm willing to do many more!
         </h1>
         <p class="mt-6 text-base text-zinc-400">
-          And here is the list of all my experiences. Maybe the next one will be with you?
+          Here is the list of all my experiences. Maybe the next one will be with you?
         </p>
       </header>
       <div class="mt-16 sm:mt-20">
